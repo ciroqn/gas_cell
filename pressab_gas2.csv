@@ -1,0 +1,11 @@
+﻿CO2 at varying pressures and the effect of this on absorbance of IR,,,
+pressure / mbar,bend absorbance,combined absorbance,wavenumber (highest peak) / cm^-1
+9.9,0.0721,0.0134,2336.096
+24.9,0.19,0.0274,2336.096
+39.7,0.337,0.043,2335.976
+54.9,0.505,0.0591,2335.976
+69.9,0.702,0.0759,2359.961
+100.1,1.24,0.111,2359.961
+119.9,1.7,0.136,2359.961
+130.0,2.06,0.149,2359.961
+150.1,6,0.175,2363.095
